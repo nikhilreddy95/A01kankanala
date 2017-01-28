@@ -1,0 +1,156 @@
+body
+{
+	
+	background-image: url("1.jpg");
+	padding-left: 1em;
+	padding-right: 1em;
+}
+#b01
+{
+background-image: url("1.jpg");
+}
+#O01
+{
+	text-align: right;
+}
+h1
+{
+	text-align: left;
+	text-decoration: underline;
+	color:white; 
+	padding-top: 1em;
+	padding-left:0.5em ;
+}
+#p01
+{
+	color: yellow;
+	line-height: 1.5em;
+	
+	font-size: 1.5em;
+	padding-left: 0.3em;
+}
+#p02
+{
+	color: yellow;
+	line-height: 1.5em;
+	
+	font-size: 1.5em;
+	padding-left: 0.3em;
+}
+ul {
+    
+    overflow: hidden;
+    background-color: #333;
+    padding:0;
+    margin:0;
+    font-family: Helvetica;
+    list-style-type: none;
+}
+th
+{
+	color: white;
+}
+#li00
+{
+	float:left;
+    font-family: Helvetica;;
+}
+#li01
+{
+	float:right;
+    font-family: Helvetica;;
+}
+#li02
+{
+	float:right;
+    font-family: Helvetica;;
+}
+#li03
+{
+	float:right;
+    font-family: Helvetica;;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+    color:black;
+}
+#im
+{
+	position: relative;
+}
+#im img
+{
+ position:absolute;
+ top: -275px;
+ right:10px;
+}
+.mailclass
+{
+	color: blue;
+	border-color: black;
+	background-color: white;
+	border:1;
+
+}
+#h01
+{
+	color:yellow;
+}
+#h01
+{
+	color:yellow;
+}
+#h02
+{
+	color:yellow;
+}
+
+
+
+#img01
+{
+	padding: 20px;
+}
+#img02
+{
+	padding: 20px;
+}
+#img03
+{
+	padding: 20px;
+}
+#img04
+{
+	padding: 20px;
+}
+#headtable
+{
+	width: 800px;
+	text-align: right;
+}
+#headcol1
+{
+width: 200px;
+}
+
+#headcol2
+{
+	width: 600px;
+	text-align: right;
+	float: right;
+
+}
+#Video
+{
+	float:right;
+}
